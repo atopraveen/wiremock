@@ -17,7 +17,7 @@ import io.restassured.response.Response;
  * Fetch value via Json path 
  *    To verify jsonpath: http://jsonpath.com/
  * 
- * @author Sheetal_Singh
+ * 
  */
 public class C_ReadResponseFromFile {
 	
