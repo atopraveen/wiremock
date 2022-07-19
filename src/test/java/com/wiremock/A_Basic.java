@@ -25,7 +25,7 @@ import io.restassured.RestAssured;
  * java -jar wiremock-jre8-standalone-2.27.2.jar --port 1111   | to set particular free port
  * java -jar wiremock-jre8-standalone-2.27.2.jar --port 0      | to set random free port
  * 
- * @author Sheetal_Singh
+ * 
  */
 public class A_Basic {
 
